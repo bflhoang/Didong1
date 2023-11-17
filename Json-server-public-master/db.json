@@ -1,0 +1,267 @@
+{
+    "users": [
+        {
+            "email": "bflhoang@gmail.com",
+            "password": "1234567"
+        },
+        {
+            "email": "CtTng_Phm14@yahoo.com",
+            "password": "q0CO7O_t2xIkcVW"
+        },
+        {
+            "email": "ThinPhc_ng@yahoo.com",
+            "password": "5zKaJ_vfi66Ci0i"
+        },
+        {
+            "email": "MinhNguyt88@yahoo.com",
+            "password": "Mv2AMUQvfXh8Iar"
+        },
+        {
+            "email": "HongXun_@yahoo.com",
+            "password": "mNGWYJJ0QLFxhZO"
+        }
+    ],
+    "products": [
+        {
+            "product_id": "74ec7656-7de2-43f4-b570-f762794c6398",
+            "name": "Unbranded Steel Pants",
+            "price": "306.00",
+            "description": "Ba ừ vàng hàng đập yêu đập tôi.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "a8defd77-9323-463d-a609-2b174d055d7c"
+        },
+        {
+            "product_id": "de0b37aa-ab43-4d6c-8881-d064450610e1",
+            "name": "Refined Rubber Soap",
+            "price": "741.00",
+            "description": "Trăng con một trời đồng bảy phá.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "ab158e24-6a23-4c65-a66f-d5065a332b79"
+        },
+        {
+            "product_id": "4b6bda71-a7fa-4381-8118-85270c6a7dfc",
+            "name": "Small Fresh Pants",
+            "price": "397.00",
+            "description": "Xuồng đá việc mua con chín ghế giày.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "87141e48-1219-43d6-99b5-4431ff0d0091"
+        },
+        {
+            "product_id": "4ab55a47-35dd-4a47-bd97-fb5c3bce4756",
+            "name": "Sleek Metal Keyboard",
+            "price": "98.00",
+            "description": "Ghế trời tủ ác.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "a361dfb2-8a31-4fbc-9e9d-ed94a362651b"
+        },
+        {
+            "product_id": "574f0750-1dbb-483a-a096-e7956ce5dc6f",
+            "name": "Generic Frozen Pizza",
+            "price": "46.00",
+            "description": "May thuyền lỗi.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "ab158e24-6a23-4c65-a66f-d5065a332b79"
+        },
+        {
+            "product_id": "4e0737c3-bb8f-4a3a-bd5c-36079e4338a9",
+            "name": "Practical Metal Chips",
+            "price": "787.00",
+            "description": "Ngọt bè nghỉ vàng đá thuyền cái đá giày.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "2d406c2b-6cb2-4ed9-8726-811ac13ed70c"
+        },
+        {
+            "product_id": "5314d7ed-33fc-4998-84d2-898b379adcff",
+            "name": "Sleek Rubber Fish",
+            "price": "642.00",
+            "description": "Cái vá tám.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "a8defd77-9323-463d-a609-2b174d055d7c"
+        },
+        {
+            "product_id": "d34ab842-581b-4b7a-9e50-db356c518abf",
+            "name": "Gorgeous Cotton Chicken",
+            "price": "501.00",
+            "description": "Ừ máy may á đánh tám làm quần mây.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "ab158e24-6a23-4c65-a66f-d5065a332b79"
+        },
+        {
+            "product_id": "114073c4-779a-4b8a-bd86-1421faceef97",
+            "name": "Tasty Concrete Bike",
+            "price": "148.00",
+            "description": "Cửa nha một hóa khâu bàn đỏ đỏ thôi đánh.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "87141e48-1219-43d6-99b5-4431ff0d0091"
+        },
+        {
+            "product_id": "a1de3b94-47b9-4660-9859-267b38e3d7b6",
+            "name": "Rustic Soft Ball",
+            "price": "434.00",
+            "description": "Gì bơi mây vàng mây khoảng xuồng hết lỗi.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "a8defd77-9323-463d-a609-2b174d055d7c"
+        },
+        {
+            "product_id": "baabfa33-805e-4bd7-8204-fcce28777cdb",
+            "name": "Sleek Fresh Chair",
+            "price": "352.00",
+            "description": "Sáu con tôi thế mây.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "a361dfb2-8a31-4fbc-9e9d-ed94a362651b"
+        },
+        {
+            "product_id": "6c623e6b-fd12-4310-9f92-5f1af0c8771e",
+            "name": "Handcrafted Fresh Tuna",
+            "price": "533.00",
+            "description": "Sáu áo một việc.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "87141e48-1219-43d6-99b5-4431ff0d0091"
+        },
+        {
+            "product_id": "216019c2-7808-45cf-b665-7f26d2701f12",
+            "name": "Handmade Granite Gloves",
+            "price": "19.00",
+            "description": "Cái thuyền mua vẽ tàu biết tím.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "2d406c2b-6cb2-4ed9-8726-811ac13ed70c"
+        },
+        {
+            "product_id": "b7335308-192d-4435-bab5-8e3146f12366",
+            "name": "Generic Cotton Tuna",
+            "price": "382.00",
+            "description": "Hết ghế cái đỏ.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "2d406c2b-6cb2-4ed9-8726-811ac13ed70c"
+        },
+        {
+            "product_id": "4b263824-26e1-4bfc-b039-3d8c021b59da",
+            "name": "Rustic Steel Chair",
+            "price": "165.00",
+            "description": "Vẽ biết em mượn máy chín.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "a361dfb2-8a31-4fbc-9e9d-ed94a362651b"
+        },
+        {
+            "product_id": "b9cd430e-b579-4f27-8875-e4260b331f15",
+            "name": "Rustic Rubber Hat",
+            "price": "401.00",
+            "description": "Mua ba đỏ ghét gió tím vẽ.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "a8defd77-9323-463d-a609-2b174d055d7c"
+        },
+        {
+            "product_id": "daa705b5-8d07-49ee-9d9e-0683274f1a02",
+            "name": "Handmade Metal Chips",
+            "price": "201.00",
+            "description": "Tui ờ ừ ngọt hai bạn một.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "87141e48-1219-43d6-99b5-4431ff0d0091"
+        },
+        {
+            "product_id": "3008b40e-86f2-486c-8bc5-37379ac8ce55",
+            "name": "Generic Plastic Computer",
+            "price": "684.00",
+            "description": "Thôi tám đỏ đang kim kim bơi tám chết tám.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "2d406c2b-6cb2-4ed9-8726-811ac13ed70c"
+        },
+        {
+            "product_id": "9d519397-69b2-4c35-b975-1014e16d9b3c",
+            "name": "Unbranded Soft Shoes",
+            "price": "225.00",
+            "description": "Một bạn tủ tôi á đá chín.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "87141e48-1219-43d6-99b5-4431ff0d0091"
+        },
+        {
+            "product_id": "5e75c9dc-3b7a-42f3-8b5a-723b06d15f89",
+            "name": "Tasty Granite Cheese",
+            "price": "584.00",
+            "description": "Áo thế làm đạp quần bạn ừ ác.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "87141e48-1219-43d6-99b5-4431ff0d0091"
+        }
+    ],
+    "categories": [
+        {
+            "category_id": "2d406c2b-6cb2-4ed9-8726-811ac13ed70c",
+            "name": "Toys"
+        },
+        {
+            "category_id": "a8defd77-9323-463d-a609-2b174d055d7c",
+            "name": "Sports"
+        },
+        {
+            "category_id": "ab158e24-6a23-4c65-a66f-d5065a332b79",
+            "name": "Movies"
+        },
+        {
+            "category_id": "87141e48-1219-43d6-99b5-4431ff0d0091",
+            "name": "Computers"
+        },
+        {
+            "category_id": "a361dfb2-8a31-4fbc-9e9d-ed94a362651b",
+            "name": "Industrial"
+        }
+    ],
+    "orders": [
+        {
+            "order_id": "860d9b23-925f-4c19-945f-ed9bed94d110",
+            "order_date": "2023-07-08T03:39:10.926Z",
+            "total_price": "836.00"
+        },
+        {
+            "order_id": "cb3b6b62-c24d-465b-865c-e47a10a6a913",
+            "order_date": "2023-07-15T14:22:00.750Z",
+            "total_price": "896.00"
+        },
+        {
+            "order_id": "b4044baa-2791-4033-b374-332e3b3c27a6",
+            "order_date": "2023-08-23T03:47:56.281Z",
+            "total_price": "248.00"
+        },
+        {
+            "order_id": "11c5621d-f574-4afb-9001-936362ba183b",
+            "order_date": "2023-03-25T10:59:02.158Z",
+            "total_price": "484.00"
+        },
+        {
+            "order_id": "8c6d5c38-3106-4919-8d73-bf57c438f365",
+            "order_date": "2023-01-23T11:08:37.966Z",
+            "total_price": "520.00"
+        }
+    ],
+    "orderDetails": [
+        {
+            "order_detail_id": "5ef396ce-76b2-46c8-9328-badd1265adcd",
+            "order_id": "8c6d5c38-3106-4919-8d73-bf57c438f365",
+            "product_id": "9d519397-69b2-4c35-b975-1014e16d9b3c",
+            "quantity": 7
+        },
+        {
+            "order_detail_id": "b510774e-e3b5-4238-a8a8-77130011fde6",
+            "order_id": "cb3b6b62-c24d-465b-865c-e47a10a6a913",
+            "product_id": "b9cd430e-b579-4f27-8875-e4260b331f15",
+            "quantity": 6
+        },
+        {
+            "order_detail_id": "4bf76b80-9530-4497-bded-6286700910d4",
+            "order_id": "b4044baa-2791-4033-b374-332e3b3c27a6",
+            "product_id": "b7335308-192d-4435-bab5-8e3146f12366",
+            "quantity": 7
+        },
+        {
+            "order_detail_id": "c8dc5df2-8f46-4aae-85b0-8eec1bb02f26",
+            "order_id": "b4044baa-2791-4033-b374-332e3b3c27a6",
+            "product_id": "daa705b5-8d07-49ee-9d9e-0683274f1a02",
+            "quantity": 0
+        },
+        {
+            "order_detail_id": "08c221fd-d3db-40bd-9dc1-4132157de240",
+            "order_id": "860d9b23-925f-4c19-945f-ed9bed94d110",
+            "product_id": "5314d7ed-33fc-4998-84d2-898b379adcff",
+            "quantity": 5
+        }
+    ]
+}

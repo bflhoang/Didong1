@@ -1,0 +1,93 @@
+{
+  "categories": [
+    {
+      "name": "Áo phông",
+      "url": "https://tse2.mm.bing.net/th?id=OIP.Qx63yI6IleXwHEzzUEx3MwHaHa&pid=Api&P=0&h=220"
+    },
+    {
+      "name": "Quần dài",
+      "url": "https://tse4.mm.bing.net/th?id=OIP.hJl7pabQMaoeDjp93Kg6RgHaJ4&pid=Api&P=0&h=220"
+    },
+    {
+      "name": "Váy",
+      "url": "https://tse2.mm.bing.net/th?id=OIP.fzhUBuI-c4hrs0sqcZe-LAHaLH&pid=Api&P=0&h=220"
+    },
+    {
+      "name": "Jacket",
+      "url": "https://tse3.mm.bing.net/th?id=OIP.GwyhIQg84tDZDXehqMZmVQHaHZ&pid=Api&P=0&h=220"
+    },
+    {
+      "name": "Cardigan",
+      "url": "https://tse2.mm.bing.net/th?id=OIP.oePtptF3iGMTK4SuKBro-gHaHa&pid=Api&P=0&h=220"
+    },
+    {
+      "name": "Hoddie",
+      "url": "https://tse3.mm.bing.net/th?id=OIP.g2b42uhd4OGqNdjO7FJV0gHaIJ&pid=Api&P=0&h=220"
+    }
+  ],
+  "products": [
+    {
+      "name": "Áo Thun Degrey Dây Rút Kem",
+      "status": "Còn hàng",
+      "type": "Quần",
+      "price": 200000,
+      "url": "https://cdnimg.emmiol.com/EM/image/en/20230911_2094/Outerwear.jpg"
+    },
+    {
+      "name": "Tee Degrey IsUs Kem",
+      "status": "Còn hàng",
+      "type": "Quần",
+      "price": 400000,
+      "url": "https://cdnimg.emmiol.com/EM/image/en/20230221_1862/women-Cargo.jpg"
+    },
+    {
+      "name": "Tee Degrey IsUs Kem",
+      "status": "Còn hàng",
+      "type": "Quần",
+      "price": 250000,
+      "url": "https: //cdnimg.emmiol.com/E/202209/goods_img_app-VCI0405TO-200474803.jpg"
+    },
+    {
+      "name": "Tee Degrey IsUs Kem",
+      "status": "Còn hàng",
+      "type": "Quần",
+      "price": 330000,
+      "url": "https: //cdnimg.emmiol.com/E/202207/goods_img_app-ECG0438TO-030114956.jpg"
+    },
+    {
+      "name": "Tee Degrey IsUs Kem",
+      "status": "Còn hàng",
+      "type": "Quần",
+      "price": 370000,
+      "url": "https: //cdnimg.emmiol.com/E/202209/goods_img_app-ECI0479TO-1022501048.jpg"
+    },
+    {
+      "name": "Degrey Double Leather Basic Balo",
+      "status": "Còn hàng",
+      "type": "Áo",
+      "price": 420000,
+      "url": "https: //cdnimg.emmiol.com/E/202109/goods_img_app-FBI0085TO-2007251210.jpg"
+    },
+    {
+      "name": "Degrey Leather ToteBook",
+      "status": "Còn hàng",
+      "type": "Quần",
+      "price": 150000,
+      "url": "https: //cdnimg.emmiol.com/E/202208/goods_img_app-ECH0234TO-2405041221.jpg"
+    },
+    {
+      "name": "Túi đeo chéo Degrey Silver Simili Bag màu bạc",
+      "status": "tạm thời hết hàng",
+      "type": "Quần",
+      "price": 500000,
+      "url": "https: //cdnimg.emmiol.com/E/202211/goods_img_app-ECK0228TO-2922531224.jpg"
+    },
+    {
+      "name": "Túi đeo chéo Degrey Silver Simili Bag màu bạc",
+      "status": "tạm thời hết hàng",
+      "type": "Quần",
+      "price": 500000,
+      "url": "https: //cdnimg.emmiol.com/E/202211/goods_img_app-ECK0228TO-2922531224.jpg"
+    }
+  ]
+}
